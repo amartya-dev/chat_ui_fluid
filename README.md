@@ -17,8 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-<img src="/home/amartya/repos/chat/screenshots/main_chat_screen.jpg" style="zoom:25%;" /> <img src="/home/amartya/repos/chat/screenshots/transition_between_screens.jpg" style="zoom:25%;" />
+<img src="screenshots/main_chat_screen.jpg" style="zoom:25%;" /> <img src="screenshots/transition_between_screens.jpg" style="zoom:25%;" />
 
-<img src="/home/amartya/repos/chat/screenshots/calls_screen.jpg" style="zoom:25%;" /> <img src="/home/amartya/repos/chat/screenshots/single_chat_screen.jpg" style="zoom:25%;" />
+<img src="screenshots/calls_screen.jpg" style="zoom:25%;" /> <img src="screenshots/single_chat_screen.jpg" style="zoom:25%;" />
 
-<img src="/home/amartya/repos/chat/screenshots/search.jpg" style="zoom:25%;" />
+<img src="screenshots/search.jpg" style="zoom:25%;" />
